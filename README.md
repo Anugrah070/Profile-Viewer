@@ -30,7 +30,12 @@ Profile Viewer is a web application that allows users to add, edit, view, and de
    npm run dev
 
 2. Go to [localhost](http://localhost:3000/) or any default port assigned by the system
-   
+
+## Images
+
+   ![Screenshot (40)](https://github.com/user-attachments/assets/2e3a2986-1977-4e24-9e95-98331c1d9c57)
+
+![Screenshot (41)](https://github.com/user-attachments/assets/91ba0194-5bf9-42be-b9cf-2425c84110d7)
 
    
 
