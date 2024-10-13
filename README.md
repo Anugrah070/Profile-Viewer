@@ -1,4 +1,5 @@
-#Profile viewer
+## Profile viewer 
+
 Profile Viewer is a web application that allows users to add, edit, view, and delete profiles. It also displays the location of each profile on a map using the Google Maps API. This project is built with React and includes features such as profile management and map integration.
 
 ## Features
@@ -27,7 +28,8 @@ Profile Viewer is a web application that allows users to add, edit, view, and de
    cd client
    npm install (to install dependencies)
    npm run dev
-   
+
+2. Go to [localhost](http://localhost:3000/) or any default port assigned by the system
    
 
    
